@@ -1,3 +1,4 @@
 this is a.txt
-added from hotfix: 2nd version
+<<<<<<< HEAD
+added from hotfix: 2nd version: add from iss53
 this is from hostfix
