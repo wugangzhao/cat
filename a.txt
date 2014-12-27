@@ -1,4 +1,3 @@
 this is a.txt
-<<<<<<< HEAD
 added from hotfix: 2nd version: add from iss53
 this is from hostfix
